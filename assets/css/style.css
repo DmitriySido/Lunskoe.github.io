@@ -57,6 +57,7 @@ Tags:   accommodation, bed & breakfast, booking, business, clean, hotel, hotel b
   justify-content: space-between;
   width: 35px;
   height: 35px;
+  z-index: 300000000000000;
 }
 
 
